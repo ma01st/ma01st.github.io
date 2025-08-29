@@ -1,0 +1,20 @@
+{
+  "config": {
+    "archivesPageSize": 50,
+    "archivesPath": "archives",
+    "dateFormat": "YYYY-MM-DD",
+    "feedCount": 10,
+    "feedFullText": true,
+    "footerInfo": "Powered by <target=\"_blank\">毛线</a>",
+    "postPageSize": 10,
+    "postPath": "post",
+    "postUrlFormat": "SLUG",
+    "showFeatureImage": true,
+    "siteDescription": "写完这篇文章我就去写作业，写完作业我就出道。",
+    "siteName": "挽尊的毛线",
+    "tagPath": "tag",
+    "tagUrlFormat": "SLUG",
+    "themeName": "notes"
+  },
+  "customConfig": {}
+}
