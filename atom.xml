@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://www.4889527.my-place.us</id>
+    <title>他说你好我叫毛线</title>
+    <updated>2025-09-04T06:56:45.385Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://www.4889527.my-place.us"/>
+    <link rel="self" href="http://www.4889527.my-place.us/atom.xml"/>
+    <subtitle>写完这篇文章我就去写作业，写完作业我就出道</subtitle>
+    <logo>http://www.4889527.my-place.us/images/avatar.png</logo>
+    <icon>http://www.4889527.my-place.us/favicon.ico</icon>
+    <rights>All rights reserved 2025, 他说你好我叫毛线</rights>
+    <entry>
+        <title type="html"><![CDATA[努斗的修行之路]]></title>
+        <id>http://www.4889527.my-place.us/nu-dou-de-xiu-xing-zhi-lu/</id>
+        <link href="http://www.4889527.my-place.us/nu-dou-de-xiu-xing-zhi-lu/">
+        </link>
+        <updated>2025-06-30T13:37:50.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一只叫金乾兑的猫]]></title>
+        <id>http://www.4889527.my-place.us/yi-zhi-jiao-jin-gan-dui-de-mao/</id>
+        <link href="http://www.4889527.my-place.us/yi-zhi-jiao-jin-gan-dui-de-mao/">
+        </link>
+        <updated>2025-03-03T01:03:25.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[找工作]]></title>
+        <id>http://www.4889527.my-place.us/zhaogongzuo/</id>
+        <link href="http://www.4889527.my-place.us/zhaogongzuo/">
+        </link>
+        <updated>2025-03-02T12:40:39.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>http://www.4889527.my-place.us/about/</id>
+        <link href="http://www.4889527.my-place.us/about/">
+        </link>
+        <updated>2019-01-25T11:09:48.000Z</updated>
+    </entry>
+</feed>
